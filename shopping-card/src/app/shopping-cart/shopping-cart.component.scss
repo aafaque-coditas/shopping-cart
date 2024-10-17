@@ -1,0 +1,8 @@
+.shop {
+  display: grid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
